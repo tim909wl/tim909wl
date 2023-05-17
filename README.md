@@ -1,8 +1,48 @@
-- 👋 Hi, I’m @tim909wl
-- 👀 I’m interested in learning new languages and making the internet a safer place.
-- I write java, javascript, sql, nodejs, linux, c++, vuejs, cyber security, cmd, lua, pyhton, html, css
-- 🌱 I’m currently learning cyber security and neural networking.
-- 💞️ I’m looking to collaborate on any complex problems in any kind of project.
-- 📫 You can reach me via instagram : prod.tim909
-- For any business request please send a email to idolsrequests@gmail.com and mention tim.west in the email.
-- Prices can be requested on same email.
+# 👋 Willkommen zu meinem GitHub-Repository! 🚀
+
+### Hier findest du eine Sammlung meiner Projekte und Kreationen. Ich bin Tim909, ein leidenschaftlicher Programmierer aus Ratzeburg. Neben meiner Begeisterung für das Coden, beschäftige ich mich auch gerne mit 🎵 Musik.
+
+### Ich arbeite aktuell an keinen Projekten.
+
+Programmiersprachen:
+
+-   Java ☕️
+-   TypeScript 🌐
+-   CSS 🎨
+-   HTML 🌐
+-   C# ♯
+-   SQL 🗃️
+-   OpenGL 🎮
+
+
+Frameworks:
+
+-   Next.JS 🌐📦
+-   LibGDX 🎮🔧
+-   LWJGL 🌐🕹️
+-   Node.JS 🌐🔧
+
+Weitere Sprachen, die ich beherrsche:
+
+-   Python 🐍
+-   JavaScript 🌐
+-   Ruby 💎
+-   Swift 🐦
+-   Go 🐹
+-   Rust 🦀
+-   PHP 🐘
+-   Kotlin 🎯
+-   MATLAB 🔢
+
+Weitere Frameworks, die ich verwende:
+
+-   React.JS ⚛️🌐
+-   AngularJS 🅰️🌐
+-   Flask 🌶️🐍
+-   Express.JS 🌐🚂
+
+Folge mir auf Instagram: [prod.tim909](https://www.instagram.com/prod.tim909), um mehr über meine musikalischen Projekte zu erfahren. 🎶
+
+Kontaktiere mich über GitHub ([Tim909](https://github.com/Tim909)) oder Instagram, falls du Fragen oder Anregungen hast.
+
+Danke für deinen Besuch und viel Spaß beim Erkunden meiner Projekte! 🙌😄
